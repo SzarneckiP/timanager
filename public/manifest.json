@@ -1,0 +1,15 @@
+{
+    "name": "TIManager",
+    "short_name": "TIM",
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/logo.svg",
+            "sizes": "512x512",
+            "type": "image/svg"
+        }
+    ]
+}
